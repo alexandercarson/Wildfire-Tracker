@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Wildfire Tracker",
+  "name": "TrackLive Wildfires Across The Globe",
   "icons": [
     {
       "src": "favicon.ico",
